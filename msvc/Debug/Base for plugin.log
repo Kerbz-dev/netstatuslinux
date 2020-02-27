@@ -1,0 +1,8 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  main.cpp
+C:\jass\netstat\netstatus\main.cpp(78,2): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(549): message : see declaration of 'stricmp'
+C:\jass\netstat\netstatus\main.cpp(86): warning C4715: 'JASS_vmMain': not all control paths return a value
+main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+     Creating library C:\jass\netstat\netstatus\msvc\Debug\BaseForPlugin.lib and object C:\jass\netstat\netstatus\msvc\Debug\BaseForPlugin.exp
+  Base for plugin.vcxproj -> C:\jass\netstat\netstatus\msvc\Debug\BaseForPlugin.dll
